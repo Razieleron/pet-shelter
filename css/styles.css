@@ -8,3 +8,16 @@ body {
   background-color: black;
   color:antiquewhite;
 }
+.sidebar {
+  width: 15%;
+  float: right;
+  background-color: darkgray;
+}
+
+.img {
+  float: right;
+}
+.column {
+  width: 300px;
+  float: left;
+}
