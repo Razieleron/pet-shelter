@@ -14,10 +14,18 @@ body {
   background-color: darkgray;
 }
 
-.img {
-  float: right;
-}
-.column {
-  width: 300px;
-  float: left;
+
+
+
+
+@media screen and (min-width: 768px) {
+  
+  .column {
+    width: 25%;
+    float: left;
+  }
+  .centercolumn {
+    width: 50%;
+    float: left;
+  }
 }
